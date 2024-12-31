@@ -14,7 +14,6 @@ function clearList(listElement) {
 
 function createList({ name, vegan, price, src }) {
     const li = document.createElement("li");
-    li.className = vegan ? "isVegan" : "notVegan";
     const img = document.createElement("img");
     img.src = src;
     img.alt = name;
@@ -73,6 +72,3 @@ buttonFilter.addEventListener("click", () => {
         unordenedList.appendChild(list)
     });    
 });
-
-
-
