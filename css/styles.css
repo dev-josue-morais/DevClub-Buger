@@ -43,7 +43,8 @@ ul {
 }
 p{ color: white;}
 img{
-    width: 100%;
+    width: 98%;
+    height: 75%;
     border-radius: 5px;
 }
 li {
