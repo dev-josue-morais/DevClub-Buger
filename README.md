@@ -56,6 +56,6 @@ Elementos ajustam-se para telas menores, como smartphones, garantindo uma experi
 
 ## Links Importantes
 
-- **[LinkedIn](https://www.linkedin.com/in/josuemorais/)**: Perfil no LinkedIn
-- **[Demonstração](https://josue28jrd.github.io/DevClub-Buger/)**: Ver o Projeto Online
-![Imagem de Demonstração](https://github.com/josue28jrd/DevClub-Buger/blob/main/img.png)
+- **[LinkedIn](https://www.linkedin.com/in/dev-josue-morais/)**: Perfil no LinkedIn
+- **[Demonstração](https://dev-josue-morais.github.io/DevClub-Buger/)**: Ver o Projeto Online
+![Imagem de Demonstração](https://github.com/dev-josue-morais/DevClub-Buger/blob/main/img.png)
